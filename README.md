@@ -2,20 +2,16 @@
 Sistem Informasi BengkelKu adalah aplikasi desktop berbasis Python (Tkinter) yang dirancang untuk membantu pengelolaan data bengkel kendaraan, termasuk data mekanik, sparepart, transaksi service, dan laporan penjualan.
 
 ## ✨ Fitur Utama
-✅ Login Multiuser – Tersedia role Admin dan Petugas
-✅ Manajemen Data Bengkel
-
+- Login Multiuser – Tersedia role Admin dan Petugas
+- Manajemen Data Bengkel
 - Input Data Mekanik
-
 - Input & Kelola Data Sparepart
-✅ Manajemen Transaksi
-
+- Manajemen Transaksi
 - Data Service Kendaraan
-
 - Laporan Transaksi Sparepart & Service
-✅ Manajemen Akun – Tambah, edit, dan hapus akun
-✅ Grafik Penjualan Sparepart – Visualisasi penjualan dengan Matplotlib
-✅ UI Sederhana & Mudah Digunakan
+- Manajemen Akun – Tambah, edit, dan hapus akun
+- Grafik Penjualan Sparepart – Visualisasi penjualan dengan Matplotlib
+- UI Sederhana & Mudah Digunakan
 
 # 🖼️ Tampilan Aplikasi
 - 🔹 Tampilan Admin
@@ -27,6 +23,8 @@ Sistem Informasi BengkelKu adalah aplikasi desktop berbasis Python (Tkinter) yan
 - Tkinter (GUI)
 - SQLite3 (Database lokal)
 - Matplotlib (Grafik transaksi)
+
+  
 # Tampilan Antarmuka
 ![Login](Image_SS/login.png)
 ![Dashboard](Image_SS/admin.png)
